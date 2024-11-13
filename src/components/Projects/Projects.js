@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Task Management App Mern"
               description="A comprehensive task management application designed to enhance productivity through intuitive task tracking and management. This full-stack application includes features like a scrum board, task addition form, user authentication, and premium book access"
-              ghLink="https://github.com/ssrlife424/Task_Management_Mern_App_JWT/"
+              ghLink="https://github.com/ssrlife424/Mern_Stack_Task_Management/"
               demoLink="https://taskmanagementjwtmern.netlify.app"
             />
           </Col>
