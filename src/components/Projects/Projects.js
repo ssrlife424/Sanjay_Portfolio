@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="Shopping Cart"
               description="This web application is a straightforward yet effective demonstration of a shopping cart system. Built with React and integrated with an API, this app enables users to add products to their cart, view detailed product information, and proceed to checkout. The system is designed to be intuitive and logically sound, showcasing the fundamental features of an e-commerce platform."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="https://github.com/ssrlife424/Shopping_Cart"
               demoLink="https://shopping-cart-green-seven-21.vercel.app/"
             />
           </Col>
